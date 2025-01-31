@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MARS\\source\\repos\\Snaffle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36121378-D5B5-4773-83B4-E30602AD259F}|..\\Snaffle_Client\\Snaffle_Client.vcxproj|C:\\Users\\MARS\\source\\repos\\Snaffle_Client\\Snaffle_Client.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47649506-B014-4F61-B479-DB7EE11F3947}|Snaffle.vcxproj|C:\\Users\\MARS\\source\\repos\\Snaffle\\Snaffle_Server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47649506-B014-4F61-B479-DB7EE11F3947}|Snaffle.vcxproj|solutionrelative:Snaffle_Server.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snaffle_Server.c",
+              "DocumentMoniker": "C:\\Users\\MARS\\source\\repos\\Snaffle\\Snaffle_Server.c",
+              "RelativeDocumentMoniker": "Snaffle_Server.c",
+              "ToolTip": "C:\\Users\\MARS\\source\\repos\\Snaffle\\Snaffle_Server.c",
+              "RelativeToolTip": "Snaffle_Server.c",
+              "ViewState": "AQIAABMCAAAAAAAAAAAAAB8CAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T04:32:22.872Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Snaffle_Client.c",
+              "DocumentMoniker": "C:\\Users\\MARS\\source\\repos\\Snaffle_Client\\Snaffle_Client.c",
+              "RelativeDocumentMoniker": "..\\Snaffle_Client\\Snaffle_Client.c",
+              "ToolTip": "C:\\Users\\MARS\\source\\repos\\Snaffle_Client\\Snaffle_Client.c",
+              "RelativeToolTip": "..\\Snaffle_Client\\Snaffle_Client.c",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAG8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-19T04:33:02.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

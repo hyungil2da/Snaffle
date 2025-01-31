@@ -1,0 +1,12 @@
+﻿  Snaffle_Client.c
+C:\Users\MARS\source\repos\Snaffle_Client\Snaffle_Client.c(80,31): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle_Client\Snaffle_Client.c(121,30): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle_Client\Snaffle_Client.c(126,30): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle_Client\Snaffle_Client.c(130,30): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle_Client\Snaffle_Client.c(136,30): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle_Client\Snaffle_Client.c(139,30): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle_Client\Snaffle_Client.c(142,30): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle_Client\Snaffle_Client.c(147,30): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle_Client\Snaffle_Client.c(151,30): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle_Client\Snaffle_Client.c(120,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Snaffle_Client.vcxproj -> C:\Users\MARS\source\repos\Snaffle\x64\Debug\Snaffle_Client.exe

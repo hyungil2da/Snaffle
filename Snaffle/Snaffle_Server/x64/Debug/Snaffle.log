@@ -1,0 +1,19 @@
+﻿  Snaffle_Server.c
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(105,44): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(146,37): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(228,37): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(273,37): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(288,38): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(297,36): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(323,36): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(329,37): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(355,42): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(357,8): warning C4033: 'handle_client'은(는) 값을 반환해야 합니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(377,42): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(386,39): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(396,32): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(415,38): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(448,41): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(455,30): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MARS\source\repos\Snaffle\Snaffle_Server.c(505,1): warning C4715: 'handle_client': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Snaffle.vcxproj -> C:\Users\MARS\source\repos\Snaffle\x64\Debug\Snaffle_Server.exe
